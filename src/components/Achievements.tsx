@@ -141,7 +141,7 @@ const Achievements = () => {
       category: "Award",
       icon: "🏆",
       color: "from-cyan-400 to-blue-500",
-      image: "/unstoppable .jpg", // Replace with actual contribution screenshot
+      image: "/unstoppable.jpg", // Replace with actual contribution screenshot
       linkedinUrl: "https://www.linkedin.com/posts/sahilansari0002_unstoppableaspirants-aspireinstitute-recognition-activity-7362332287184637952-WR1-" // Replace with actual LinkedIn post
     }
   ];
