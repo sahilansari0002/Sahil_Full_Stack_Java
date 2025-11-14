@@ -74,7 +74,7 @@ const Hero = () => {
                 <div className="w-full h-full rounded-full overflow-hidden bg-slate-900">
                   {/* Placeholder for your photo - replace src with your actual photo */}
                   <img 
-                    src="/public/sahil 2.jpg" 
+                    src="/sahil-2.jpg" 
                     alt="Sahil Ali - Full Stack Developer"
                     className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-110"
                   />
