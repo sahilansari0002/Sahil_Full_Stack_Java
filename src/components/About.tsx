@@ -57,7 +57,7 @@ const About = () => {
               <div className="aspect-square rounded-2xl overflow-hidden">
                 {/* Replace with your professional photo */}
                 <img 
-                  src="/public/about-waala.jpg" 
+                  src="/about-waala.jpg" 
                   alt="Sahil Ali - Professional Photo"
                   className="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
                 />
