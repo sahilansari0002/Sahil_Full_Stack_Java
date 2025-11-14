@@ -18,7 +18,7 @@ const Projects = () => {
       category: "Web",
       technologies: ["HTML", "CSS", "JavaScript","React","Tailwind CSS","Node.Js"],
       image: "💼",
-      liveUrl: "https://sahilportfolios.netlify.app/",
+      liveUrl: "https://sahilportfoliosss.netlify.app/",
       githubUrl: "#"
     },
     {
