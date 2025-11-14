@@ -11,7 +11,7 @@ const Achievements = () => {
       category: "Competition",
       icon: "🏆",
       color: "from-yellow-400 to-orange-500",
-      image: "/public/iit with cert.jpg", // Replace with actual achievement photo
+      image: "/iit-with-cert.jpg", // Replace with actual achievement photo
       linkedinUrl: "https://www.linkedin.com/posts/sahilansari0002_cyi2025-iitdelhi-sbiyouthideathon-activity-7323972235025690624-BlsG" // Replace with actual LinkedIn post
     },
     {
@@ -21,7 +21,7 @@ const Achievements = () => {
       category: "Goodies",
       icon: "☁️",
       color: "from-blue-400 to-cyan-500",
-      image: "/public/champinion.jpg", // Replace with actual certificate photo
+      image: "/champinion.jpg", // Replace with actual certificate photo
       linkedinUrl: "https://www.linkedin.com/posts/sahilansari0002_arcade-google-googlecloudarcade2k24-activity-7312518810924630016-UfrV" // Replace with actual LinkedIn post
     },
     {
@@ -31,7 +31,7 @@ const Achievements = () => {
       category: "Recognition",
       icon: "⭐",
       color: "from-purple-400 to-pink-500",
-      image: "/public/aspire medel.jpg", // Replace with actual award photo
+      image: "/aspire-medel.jpg", // Replace with actual award photo
       // Replace with actual LinkedIn post
     },
     {
@@ -41,7 +41,7 @@ const Achievements = () => {
       category: "Competition",
       icon: "🚀",
       color: "from-green-400 to-cyan-500",
-      image: "/public/1 lakh.jpg", // Replace with actual achievement photo
+      image: "/1-lakh.jpg", // Replace with actual achievement photo
       linkedinUrl: "https://www.linkedin.com/posts/sahilansari0002_msins-innovationwinners-activity-7157264331846348800-rGbi" // Replace with actual LinkedIn post
     },
     {
@@ -51,7 +51,7 @@ const Achievements = () => {
       category: "Event",
       icon: "🌍",
       color: "from-indigo-400 to-purple-500",
-      image: "/public/tie.jpg", // Replace with actual event photo
+      image: "/tie.jpg", // Replace with actual event photo
       linkedinUrl: "https://www.linkedin.com/posts/sahilansari0002_tieglobalsummit-entrepreneurship-innovation-activity-7292850444056346624-8Lk0" // Replace with actual LinkedIn post
     },
     {
@@ -61,7 +61,7 @@ const Achievements = () => {
       category: "Award",
       icon: "🏆",
       color: "from-blue-400 to-cyan-500",
-      image: "/public/jogisir.jpg", // Replace with actual certificate photo
+      image: "/jogisir.jpg", // Replace with actual certificate photo
        // Replace with actual LinkedIn post
     },
     {
@@ -71,7 +71,7 @@ const Achievements = () => {
       category: "Scholarship",
       icon: "⭐",
       color: "from-purple-400 to-pink-500",
-      image: "/public/reliance.jpg", // Replace with actual award photo
+      image: "/reliance.jpg", // Replace with actual award photo
       linkedinUrl: "https://www.linkedin.com/posts/sahilansari0002_reliancefoundation-pursueexcellence-reliancefoundationscolar-activity-7101400385063440385-y1E_" // Replace with actual LinkedIn post
     },
     {
@@ -81,7 +81,7 @@ const Achievements = () => {
       category: "Event",
       icon: "🌍",
       color: "from-green-400 to-cyan-500",
-      image: "/public/startup.jpg", // Replace with actual achievement photo
+      image: "/startup.jpg", // Replace with actual achievement photo
       linkedinUrl: "https://www.linkedin.com/posts/sahilansari0002_startupindia-innovation-leadership-activity-7177349774281519104-2SrF" // Replace with actual LinkedIn post
     },
     {
@@ -91,7 +91,7 @@ const Achievements = () => {
       category: "Event",
       icon: "🌍",
       color: "from-green-400 to-cyan-500",
-      image: "/public/startup maha25.jpg", // Replace with actual achievement photo
+      image: "/startup-maha25.jpg", // Replace with actual achievement photo
       linkedinUrl: "https://www.linkedin.com/posts/sahilansari0002_pitchingskills-professionaldevelopment-startupmahakumbh-activity-7317745959591956481-2TuI" // Replace with actual LinkedIn post
     },
     {
@@ -101,7 +101,7 @@ const Achievements = () => {
       category: "Competition",
       icon: "🚀",
       color: "from-indigo-400 to-purple-500",
-      image: "/public/quiz.png", // Replace with actual event photo
+      image: "/quiz.png", // Replace with actual event photo
       linkedinUrl: "https://www.linkedin.com/posts/hack2skill_shoutout-to-quiz-contest-winners-activity-7187365576510521344-CXFu" // Replace with actual LinkedIn post
     },
     {
@@ -111,7 +111,7 @@ const Achievements = () => {
       category: "Competition",
       icon: "🚀",
       color: "from-green-400 to-cyan-500",
-      image: "/public/project.jpg", // Replace with actual achievement photo
+      image: "/project.jpg", // Replace with actual achievement photo
       linkedinUrl: "https://www.linkedin.com/posts/sahilansari0002_awardwinning-teameffort-milestone-activity-7186911631182819329-1p0h" // Replace with actual LinkedIn post
     },
     {
@@ -121,7 +121,7 @@ const Achievements = () => {
       category: "Competition",
       icon: "🚀",
       color: "from-green-400 to-cyan-500",
-      image: "/public/pune.jpg", // Replace with actual achievement photo
+      image: "/pune.jpg", // Replace with actual achievement photo
       linkedinUrl: "https://www.linkedin.com/posts/gdg-cloud-pune_gccdpune2024-socialmediawinner-ccdpune-activity-7245759271869550592-LoFI" // Replace with actual LinkedIn post
     },
     {
@@ -131,7 +131,7 @@ const Achievements = () => {
       category: "Event",
       icon: "🌍",
       color: "from-indigo-400 to-purple-500",
-      image: "/public/devfest.jpg", // Replace with actual event photo
+      image: "/devfest.jpg", // Replace with actual event photo
       linkedinUrl: "https://www.linkedin.com/posts/gdgpune_devfestpune-dfp2024-gdgpune-activity-7267175926679941120-qwHi" // Replace with actual LinkedIn post
     },
     {
@@ -141,7 +141,7 @@ const Achievements = () => {
       category: "Award",
       icon: "🏆",
       color: "from-cyan-400 to-blue-500",
-      image: "/public/unstoppable .jpg", // Replace with actual contribution screenshot
+      image: "/unstoppable .jpg", // Replace with actual contribution screenshot
       linkedinUrl: "https://www.linkedin.com/posts/sahilansari0002_unstoppableaspirants-aspireinstitute-recognition-activity-7362332287184637952-WR1-" // Replace with actual LinkedIn post
     }
   ];
